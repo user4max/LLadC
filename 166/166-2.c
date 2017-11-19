@@ -1,3 +1,7 @@
+/*
+ 166-2.c by Carp-Bezverhnii Maxim
+ */ 
+
 #include <unistd.h>
 
 int main()
